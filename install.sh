@@ -52,4 +52,4 @@ fi
 echo -e """\033[92m 
 ngrok has been installed successfully 
 YouTube:\033[91mhttps://www.youtube.com/channel/UC4A8Npg7zYgc1LqqHvULKSQ
-""
+"""
