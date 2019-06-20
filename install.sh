@@ -48,9 +48,8 @@ echo -e "\033[94m"
 figlet "for"
 echo -e "\033[95m"
 figlet $arch
-
-unzip ngrok-stable-linux-arm.zip
-wget "https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip"
+wget https://github.com/Ahmedmahmed8a/ngrok-arm/raw/master/ngrok-arm
+mv ngrok-arm ngrok
 chmod 777 ngrok
 fi
 echo -e """\033[92m 
